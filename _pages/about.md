@@ -12,6 +12,9 @@ Hello everyone, I am a developer enjoying, HyunKeun Park.
 Konkuk University, Glocal Campus, Chungju Bachelor of Computer Engineering `Korea, January 2011 - August 2017`
 
 ## Relevant Experience
+### Militery Service in Korea
+A field engineer `Korea, January 2012 - October 2013`
+
 ### Motilink(Groupware) Project, FocusOne
 Tester `Bundang, Korea, December 2013`
 * Finded the Error and maked Error List, so fixed the Error at all of Computer System
