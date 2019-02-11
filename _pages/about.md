@@ -48,10 +48,10 @@ Run Computer Skills Blog and Youtube `October 2007 – Present`
 * JavaScript
 
 ### Others
-* jQuery
-* Vue
-* Android
 * Spring Framework
-* Kafka
+* Vue
+* jQuery
+* Android
 * Radis
 * Docker
+* Kafka
