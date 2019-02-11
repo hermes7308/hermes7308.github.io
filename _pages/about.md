@@ -6,7 +6,7 @@ last_modified_at: 2019-01-23T20:23:03-05:00
 toc: true
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+Hello everyone, I am a developer enjoying, HyunKeun Park.
 
 ## Education
 Konkuk University, Glocal Campus, Chungju Bachelor of Computer Engineering
@@ -18,7 +18,7 @@ Tester `Bundang, Korea, December 2013`
 Environment
 
 ### Personal BlackBox Project, HCI Laboratory of WooJinPaik
-Programmer `March 2014 – August 2014`
+Programmer `Chungju, Korea March 2014 – August 2014`
 * Building the System Server
 * Used the Camera, Light sensor, Accelerometer
 * Maked the Big Data that can use another something
@@ -28,8 +28,8 @@ Programmer `Chungju, Korea March 2014 – December 2014`
 * Building the System Server
 * Maked the Web Site can auctioneer graduation work
 
-### N Tech Service `Korea July 2017 - Present`
-Programmer
+### N Tech Service 
+Programmer `Bundang, Korea July 2017 - Present`
 * develop monitoring system
 
 ## Activities
