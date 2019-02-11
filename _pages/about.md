@@ -9,7 +9,7 @@ toc: true
 Hello everyone, I am a developer enjoying, HyunKeun Park.
 
 ## Education
-Konkuk University, Glocal Campus, Chungju Bachelor of Computer Engineering
+Konkuk University, Glocal Campus, Chungju Bachelor of Computer Engineering `Korea, January 2011 - August 2017`
 
 ## Relevant Experience
 ### Motilink(Groupware) Project, FocusOne
