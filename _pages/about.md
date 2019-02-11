@@ -12,7 +12,7 @@ Hello everyone, I am a developer enjoying, HyunKeun Park.
 Konkuk University, Glocal Campus, Chungju Bachelor of Computer Engineering `Korea, January 2011 - August 2017`
 
 ## Relevant Experience
-### Militery Service in Korea
+### Military Service
 A field engineer `Korea, January 2012 - October 2013`
 
 ### Motilink(Groupware) Project, FocusOne
