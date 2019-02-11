@@ -12,13 +12,14 @@ Hello everyone, I am a developer enjoying, HyunKeun Park.
 Konkuk University, Glocal Campus, Chungju Bachelor of Computer Engineering `Korea, January 2011 - August 2017`
 
 ## Relevant Experience
-### Military Service
-A field engineer `Korea, January 2012 - October 2013`
+### N Tech Service 
+Programmer `Bundang, Korea July 2017 - Present`
+* develop monitoring system
 
-### Motilink(Groupware) Project, FocusOne
-Tester `Bundang, Korea, December 2013`
-* Finded the Error and maked Error List, so fixed the Error at all of Computer System
-Environment
+### Talentshare.gallery Project, HCI Laboratory of WooJinPaik 
+Programmer `Chungju, Korea March 2014 – December 2014`
+* Building the System Server
+* Maked the Web Site can auctioneer graduation work
 
 ### Personal BlackBox Project, HCI Laboratory of WooJinPaik
 Programmer `Chungju, Korea March 2014 – August 2014`
@@ -26,14 +27,13 @@ Programmer `Chungju, Korea March 2014 – August 2014`
 * Used the Camera, Light sensor, Accelerometer
 * Maked the Big Data that can use another something
 
-### Talentshare.gallery Project, HCI Laboratory of WooJinPaik 
-Programmer `Chungju, Korea March 2014 – December 2014`
-* Building the System Server
-* Maked the Web Site can auctioneer graduation work
+### Motilink(Groupware) Project, FocusOne
+Tester `Bundang, Korea, December 2013`
+* Finded the Error and maked Error List, so fixed the Error at all of Computer System
+Environment
 
-### N Tech Service 
-Programmer `Bundang, Korea July 2017 - Present`
-* develop monitoring system
+### Military Service
+A field engineer `Korea, January 2012 - October 2013`
 
 ## Activities
 Run Computer Skills Blog and Youtube `October 2007 – Present`
