@@ -23,12 +23,10 @@ Programmer `March 2014 – August 2014`
 * Used the Camera, Light sensor, Accelerometer
 * Maked the Big Data that can use another something
 
-### Talentshare.gallery Project, HCI Laboratory of WooJinPaik `Chungju, Korea March 2014 – December 2014`
+### Talentshare.gallery Project, HCI Laboratory of WooJinPaik 
+Programmer `Chungju, Korea March 2014 – December 2014`
 * Building the System Server
 * Maked the Web Site can auctioneer graduation work
-
-### K-NEST 1st, KAIST `Daejeon, Korea January 2015`
-Learned Founded Education Program
 
 ### N Tech Service `Korea July 2017 - Present`
 Programmer
