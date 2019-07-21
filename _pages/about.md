@@ -56,17 +56,17 @@ Run Computer Skills Blog and Youtube
 
 ## Credits
 ### Pure Programming Language
-* C/C++
-* Golang
 * Java
-* JavaScript
+* C/C++
 * Python
+* Golang
+* HTML/CSS
+* JavaScript
 
 ### Others
+* Spring Framework
 * Android
-* Docker
+* Vue
 * jQuery
 * Kafka
 * Radis
-* Spring Framework
-* Vue
