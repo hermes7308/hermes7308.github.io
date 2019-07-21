@@ -61,6 +61,7 @@ Run Computer Skills Blog and Youtube
 * Python
 * Golang
 * HTML/CSS
+* PHP
 * JavaScript
 
 ### Others
@@ -68,5 +69,7 @@ Run Computer Skills Blog and Youtube
 * Android
 * Vue
 * jQuery
+* Oracle
+* MySQL
 * Kafka
 * Radis
