@@ -15,7 +15,7 @@ Konkuk University, Glocal Campus, Chungju Bachelor of Computer Engineering
 
 ## Relevant Experience
 ### N Tech Service 
-`Bundang, Korea July 2017 - Present`
+`Bundang, Korea July 2017 - May 2019`
 
 Programmer 
 * developed monitoring system (Naver UGC such as blog, cafe, kin, and etc Monitor System)
