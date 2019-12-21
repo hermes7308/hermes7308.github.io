@@ -55,6 +55,7 @@ QA Engineer
 
 ### Republic of Korea Armed Forces 
 `South Korea, January 2012 - October 2013`
+
 Field Engineer  
 * Managed military warehouse inventory such as army uniforms, bullets, explosives, emergency rations, and firearms   
 * Buried mines, installed wire entanglements, shot machine gun (M-60), Shot rifle (K-2)
