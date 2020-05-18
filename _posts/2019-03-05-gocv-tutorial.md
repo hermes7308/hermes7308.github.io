@@ -8,6 +8,6 @@ tags:
   - Tutorial
 ---
 
-This is gocv tutorial that i made
+This is gocv tutorial that I made.
 
 Link: [gocv-tutorial](https://github.com/hermes7308/gocv-tutorial)
