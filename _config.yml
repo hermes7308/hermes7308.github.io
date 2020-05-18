@@ -107,9 +107,9 @@ analytics:
 # Site Author
 author:
   name             : "HyunKeun Park"
-  avatar           : "/images/profile_with_steve_jobs.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Los Angeles"
+  location         : "New Jersey"
   email            : "hermes7308@gmail.com"
   links:
     - label: "Email"
