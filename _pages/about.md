@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-last_modified_at: 2019-01-23T20:23:03-05:00
+last_modified_at: 2020-05-17T22:37:30-40:00
 toc: true
 ---
 
@@ -23,19 +23,18 @@ International Academy
 `Englewood Cliffs, New Jersey,  August 2019 – Present`
 
 Web Developer
+* Programmed a financial system to interface invoice submission between North and South America using Java
 * Managed an Invoice Portal with an employee master data and authorization flow to provide data in multilateral frame 
-* Analyzed and detected errors occurred in authorization or approval process in legacy systems using PL/SQL
-* Installed Atlassian software(Confluence, Bitbucket, Bamboo) and MySQL for LG CNS America QA Project. 
-
+* Analyzed and detected errors occurred in authorization or approval process in legacy systems using PL/SQL 
 
 ### N Tech Service 
 `Bundang, South Korea July 2017 - May 2019`
 
 Web Developer
-* Set up Linux (CentOS) server environment for the webserver, batch server, statistics server in the Monitoring System
 * Implemented auto/non-auto Image & Video filtering System to ban harmful information to keep clean setting for users
 * Developed front-end system for outside vendors to utilize web page directly using HTML, CSS, JavaScript, Vue.js
 * Built back-end system to enhance automatic filtering process over manual tasks using Springframework, Oracle DB
+* Set up Linux (CentOS) server environment for the webserver, batch server, statistics server in the Monitoring System
 
 ### HCI Laboratory of WooJinPaik 
 `Chungju, South Korea March 2014 – December 2016`
@@ -61,11 +60,10 @@ Field Engineer
 * Buried mines, installed wire entanglements, shot machine gun (M-60), Shot rifle (K-2)
 
 ## TECHNICAL Skills
-* **Programming Language**: Java, C/C++, Python, Golang, HTML/CSS, XML, JavaScript, Shell scripting, PHP, PL/SQL
-* **Platforms/OS**: Windows, macOS, Linux/Unix
-* **Hardware**: Raspberry Pi, Arduino
-* **Framework/Library**:  Springframework, Jsp/Servlet, jQuery, Vue.js,  Android, OpenCV, OpenGL
-* **Database/Solution**: Oracle Database, MySQL Database, Kafka, Redis, Hadoop, ZooKeeper, Jenkins, Maven, Gradle
-* **Tools**: Intellij, Eclipse, Vim, Visual Studio, Visual Studio Code, Android Studio
-* **Configuration Management**: Git(Github)
-* **Standard/Guidelines**: Naver coding convention
+* Programming Language: Java, C/C++, Python, Golang, HTML/CSS, XML, JavaScript, Shell scripting, PHP, PL/SQL
+* Platforms/OS: Windows, macOS, Linux/Unix, Docker
+* Framework/Library:  Springframework, Jsp/Servlet, jQuery, Vue.js,  Android, OpenCV, OpenGL
+* Database/Solution: Oracle Database, MySQL Database, Kafka, Redis, Hadoop, ZooKeeper, Jenkins, Maven, Gradle
+* Tools: Intellij, Eclipse, Vim, Visual Studio, Visual Studio Code, Android Studio
+* Configuration Management: Git(Github)
+* Standard/Guidelines: Naver coding convention
