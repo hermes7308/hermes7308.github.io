@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-last_modified_at: 2020-05-17T22:37:30-40:00
+last_modified_at: 2020-09-01T00:10:30-40:00
 toc: true
 ---
 
@@ -16,15 +16,15 @@ Before my current position, I was implementing an image & video filtering system
 
 I enjoy facing any challenges and it becomes my motivation to develop further. I have enhanced my skills in web mechanics, database technologies, programming, new solutions, and cooperation recently. The following is a list of my detailed technical skills.
 
-* Web mechanics
+* **Web mechanics**
     * Low level web-driven, how different physical network structures and logical network structures
-* Database technologies
+* **Database technologies**
     * Indexing, database structure, how to design database, transaction, database cashing, and tracking database plan
-* Programming
+* **Programming**
     * Clean code, test ways, best practice to select a programming language to develop, design patterns, managing packages, and debugging skills
-* New solutions
+* **New solutions**
     * Kafka, Redis, Hadoop, zookeeper, reactive programming, docker and microservice architecture
-* Cooperation
+* **Cooperation**
     * CI (Continuous integration), coding convention, code review ways, and meeting
 
 It would be a great opportunity to contribute to a digital platform team and develop new technologies. Furthermore, it would be a great chance to advance skills in web mechanics, database technologies, programming, new solutions, and cooperation.
@@ -48,7 +48,7 @@ International Academy
 ## LG CNS America
 `Englewood Cliffs, New Jersey,  August 2019 – Present`
 
-Web Developer
+**Web Developer**
 * Programmed a financial system to interface invoice submission between North and South America using Java
 * Managed an Invoice Portal with an employee master data and authorization flow to provide data in multilateral frame 
 * Analyzed and detected errors occurred in authorization or approval process in legacy systems using PL/SQL 
@@ -56,7 +56,7 @@ Web Developer
 ## N Tech Service 
 `Bundang, South Korea July 2017 - May 2019`
 
-Web Developer
+**Web Developer**
 * Implemented auto/non-auto Image & Video filtering System to ban harmful information to keep clean setting for users
 * Developed front-end system for outside vendors to utilize web page directly using HTML, CSS, JavaScript, Vue.js
 * Built back-end system to enhance automatic filtering process over manual tasks using Springframework, Oracle DB
@@ -65,7 +65,7 @@ Web Developer
 ## HCI Laboratory of WooJinPaik 
 `Chungju, South Korea March 2014 – December 2016`
 
-Programmer
+**Programmer**
 * Constructed Linux (Ubuntu) server environments for Talentshare.gallery project that sold student artworks at auction
 * Exploited website using Joomla like Wordpress for Talentshare.gallery project that sold student artworks at auction
 * Framed Linux (Ubuntu) server environments called Personal BlackBox project to develop and research body cameras
@@ -74,14 +74,14 @@ Programmer
 ## Focus One
 `Bundang, Korea, December 2013`
 
-QA Engineer
+**QA Engineer**
 * Tested a groupware server that included HR/Organization management, file sharing, and internal chat tools  
 * Detected errors and made error reports for groupware server to offer qualitative application to customers
 
 ## Republic of Korea Armed Forces 
 `South Korea, January 2012 - October 2013`
 
-Field Engineer  
+**Field Engineer**
 * Supervised military warehouse inventory such as army uniforms, bullets, explosives, emergency rations, and firearms   
 * Buried mines, installed wire entanglements, shot machine gun (M-60), Shot rifle (K-2)
 
