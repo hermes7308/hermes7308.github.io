@@ -99,13 +99,10 @@ author:
   location         : "Fort Lee, NJ"
   email            : "hermes7308@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:hermes7308@gmail.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hermes7308"
-    - label: "Website"
+    - label: "Blog"
       icon: "fas fa-fw fa-link"
       url: "https://hermes7308.blogspot.com/"
     - label: "Twitter"
