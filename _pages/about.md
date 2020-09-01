@@ -6,7 +6,33 @@ last_modified_at: 2020-05-17T22:37:30-40:00
 toc: true
 ---
 
-Hello everyone, I am a developer enjoying programming, HyunKeun Park.
+## Cover Letter
+
+Dear whom it may receive,
+
+I’m currently working as a web developer at the LG CNS America Inc. My daily responsibilities are developing financial software for the invoice process and managing the system for any errors appearing. Since the program is used in North and South America, It’s critical to communicate with HQ and America subsidiaries to fix bugs and enhance the system.
+
+Before my current position, I was implementing an image & video filtering system, batch scheduler to give statistics, front-end pages, and back-end logic at N-Tech Service. The website had daily users of twenty-three million and covered every gender and age range. I had no room for error and it was critical to filter any harmful texts, images, and videos for users. Furthermore, it was important to communicate with other programmers, statisticians, and quality assurance testers to fix errors and test new programs that we developed.
+
+I enjoy facing any challenges and it becomes my motivation to develop further. I have enhanced my skills in web mechanics, database technologies, programming, new solutions, and cooperation recently. The following is a list of my detailed technical skills.
+
+* Web mechanics
+    * Low level web-driven, how different physical network structures and logical network structures
+* Database technologies
+    * Indexing, database structure, how to design database, transaction, database cashing, and tracking database plan
+* Programming
+    * Clean code, test ways, best practice to select a programming language to develop, design patterns, managing packages, and debugging skills
+* New solutions
+    * Kafka, Redis, Hadoop, zookeeper, reactive programming, docker and microservice architecture
+* Cooperation
+    * CI (Continuous integration), coding convention, code review ways, and meeting
+
+It would be a great opportunity to contribute to a digital platform team and develop new technologies. Furthermore, it would be a great chance to advance skills in web mechanics, database technologies, programming, new solutions, and cooperation.
+
+I look forward to meeting you to discuss my suitability further. I can be reached at 310-713-3594 or by email at hermes7308@gmail.com. Thank you for your time and consideration.
+
+Best regards,
+Hyunkeun Park
 
 ## Education
 ### Konkuk University 
