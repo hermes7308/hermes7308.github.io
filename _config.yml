@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "HERMES"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "The project of Hyunkeun" # site tagline that appears below site title in masthead
 name                     : "HyunKeun Park"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -93,15 +93,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "HyunKeun Park"
-  avatar           : "/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : *name # *name is a YAML reference pointing to the &anchor earlier
+  avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Good luck"
-  location         : "New Jersey"
+  location         : "Fort Lee, NJ"
   email            : "hermes7308@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:hermes7308@gmail.com
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/hermes7308"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://hermes7308.blogspot.com/"
@@ -111,9 +114,6 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/hermes7308"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
