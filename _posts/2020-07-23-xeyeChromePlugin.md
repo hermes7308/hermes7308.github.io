@@ -1,11 +1,11 @@
 ---
 title: "Xeye Chrome Plugin"
 categories:
-  - Python
+  - Vision
 tags:
   - Python
   - AI
-  - Porn image
+  - Porn image filter
   - Chrome Extension
 ---
 

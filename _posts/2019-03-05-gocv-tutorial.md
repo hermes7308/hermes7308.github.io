@@ -1,10 +1,10 @@
 ---
 title: "gocv Tutorial"
 categories:
-  - Go
+  - Vision
 tags:
   - Go
-  - OpenCv
+  - OpenCV
   - Tutorial
 ---
 

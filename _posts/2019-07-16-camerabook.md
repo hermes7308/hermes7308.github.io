@@ -1,7 +1,7 @@
 ---
 title: "CameraBook"
 categories:
-  - Android
+  - App
 tags:
   - Java
   - Android
