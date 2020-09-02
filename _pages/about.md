@@ -25,7 +25,7 @@ I enjoy facing any challenges and it becomes my motivation to develop further. I
 * **New solutions**
     * Kafka, Redis, Hadoop, zookeeper, reactive programming, docker and microservice architecture
 * **Cooperation**
-    * CI (Continuous integration), coding convention, code review ways, and meeting
+    * CI/CD, coding convention, code review ways, and meeting
 
 It would be a great opportunity to contribute to your team and develop new technologies. Furthermore, it would be a great chance to advance skills in web mechanics, database technologies, programming, new solutions, and cooperation.
 
