@@ -27,7 +27,7 @@ I enjoy facing any challenges and it becomes my motivation to develop further. I
 * **Cooperation**
     * CI (Continuous integration), coding convention, code review ways, and meeting
 
-It would be a great opportunity to contribute to a digital platform team and develop new technologies. Furthermore, it would be a great chance to advance skills in web mechanics, database technologies, programming, new solutions, and cooperation.
+It would be a great opportunity to contribute to your team and develop new technologies. Furthermore, it would be a great chance to advance skills in web mechanics, database technologies, programming, new solutions, and cooperation.
 
 I look forward to meeting you to discuss my suitability further. I can be reached at 310-713-3594 or by email at hermes7308@gmail.com. Thank you for your time and consideration.
 
