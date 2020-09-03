@@ -22,8 +22,6 @@ I enjoy facing any challenges and it becomes my motivation to develop further. I
     * Indexing, database structure, how to design database, transaction, database cashing, and tracking database plan
 * **Programming**
     * Clean code, test ways, best practice to select a programming language to develop, design patterns, managing packages, and debugging skills
-* **New solutions**
-    * Kafka, Redis, Hadoop, zookeeper, reactive programming, docker and microservice architecture
 * **Cooperation**
     * CI/CD, coding convention, code review ways, and meeting
 
