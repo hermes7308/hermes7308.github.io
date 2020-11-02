@@ -1,5 +1,5 @@
 ---
-title: "Youtube Downloader(Demo)"
+title: "Youtube Downloader"
 categories:
   - Web
 tags:
@@ -12,4 +12,4 @@ tags:
 
 This is Youtube Downloader made by Python and Docker
 
-Link: [Youtube Downloader](https://www.youtubedownloadsupport.com/)
+Link: [GitHub](https://github.com/hermes7308/youtube-downloader)
