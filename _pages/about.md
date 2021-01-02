@@ -46,7 +46,7 @@ International Academy
 ## LG CNS America
 `Englewood Cliffs, New Jersey,  August 2019 – Present`
 
-**Web Developer**
+**Java Developer**
 * Programmed a financial system to interface invoice submission between North and South America using Java
 * Managed an Invoice Portal with an employee master data and authorization flow to provide data in multilateral frame 
 * Analyzed and detected errors occurred in authorization or approval process in legacy systems using PL/SQL 
@@ -54,7 +54,7 @@ International Academy
 ## N Tech Service 
 `Bundang, South Korea July 2017 - May 2019`
 
-**Web Developer**
+**Java Developer**
 * Implemented auto/non-auto Image & Video filtering System to ban harmful information to keep clean setting for users
 * Developed front-end system for outside vendors to utilize web page directly using HTML, CSS, JavaScript, Vue.js
 * Built back-end system to enhance automatic filtering process over manual tasks using Springframework, Oracle DB
