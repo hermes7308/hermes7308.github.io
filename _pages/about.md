@@ -44,7 +44,7 @@ International Academy
 
 # Work Experience
 ## LG CNS America
-`Englewood Cliffs, New Jersey,  August 2019 – Present`
+`Englewood Cliffs, New Jersey,  August 2019 – May 2021`
 
 **Java Developer**
 * Programmed a financial system to interface invoice submission between North and South America using Java
